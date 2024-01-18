@@ -33,6 +33,10 @@ body {
     position: relative;
 }
 
+.collpas-box-title p:hover {
+    background-color: #A0ACAD;
+}
+
 
 
 .collaps-box-text p {
